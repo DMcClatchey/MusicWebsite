@@ -1,0 +1,45 @@
+.App {
+  /* text-align: center;
+  width:100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0; */
+  /* height:1000px; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-width: 200px;
+  height: 100%;
+  /* background-size: auto; */
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+/* .App-background {
+  width:100%;
+} */
+
+ .App-header {
+  color: black;
+  min-width: 500px;
+  left:4.5%;
+  top:4%;
+  font-size: 1.2vmax;
+  letter-spacing:0.4em;
+  position:relative; 
+  font-family:sans-serif, Arial, Helvetica, ; 
+
+}
+/*
+.App-title {
+  font-size: 1.5em;
+  color: black;
+  vertical-align: middle;
+}
+
+.App-intro {
+  font-size: large;
+} */
