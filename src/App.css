@@ -24,12 +24,12 @@
 
  .App-header {
   color: black;
-  min-width: 500px;
-  left:4.5%;
+  /* min-width: 500px; */
+  left:4.4%;
   top:4%;
   font-size: 1.2vmax;
   letter-spacing:0.4em;
-  position:relative; 
+  position:fixed; 
   font-family:sans-serif, Arial, Helvetica, ; 
 
 }
